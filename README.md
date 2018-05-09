@@ -1,1 +1,1 @@
-# cuppings-website
+# Cuppings Website
